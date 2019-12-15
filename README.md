@@ -2,7 +2,7 @@
 
 ## Description
 
-This mini app demo's building a team. [Live Site ](https://kevinanderson.codes).
+This mini app demo's building a team. [Live Site ](https://agentkma.github.io/team-builder/).
 
 ### ScreenShots
 
